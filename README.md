@@ -19,4 +19,7 @@ MICCAI Brain Tumor Segmentation Challenge 2020 dataset (BraTS) - <https://www.me
 1) Download each dataset and save to a directory of your choice.
 2) Preprocess the data with ```preprocess.ipynb```
 3) Train models using ```train_pocketnet.ipynb```
+4) Train for model saturation using ```saturation.ipynb```
 4) Run performance profiling with ```performance_profile.ipynb```
+
+A generic implementation of each architecture (pocket and non-pocket versions) is available in ```pocketnet.ipynb```. 
