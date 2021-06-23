@@ -14,6 +14,8 @@ Neurofeedback Skull-stripped repository (NFBS) - <http://preprocessed-connectome
 
 MICCAI Brain Tumor Segmentation Challenge 2020 dataset (BraTS) - <https://www.med.upenn.edu/cbica/brats2020/registration.html>
 
+COVIDx8B dataset - <https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md>
+
 #### Usage instructions
 ---
 1) Download each dataset and save to a directory of your choice.
