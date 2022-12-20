@@ -1,10 +1,8 @@
 ### PocketNet: A Smaller Neural Network For Medical Image Analysis
 
-Code and materials for original submission of:
+Please cite the following if you use this code for your work:
 
-Celaya, A., Actor, J. A., Muthusivarajan, R., Gates, E., Chung, C., Schellingerhout, D., Riviere, B., Fuentes, D. PocketNet: A Smaller Neural Network For Medical Image Analysis. Submitted.
-
-<https://arxiv.org/abs/2104.10745>
+> A. Celaya et al., "PocketNet: A Smaller Neural Network For Medical Image Analysis," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2022.3224873.
 
 Updated code for testing 3D networks is available at <https://github.com/aecelaya/MIST>. 
 
